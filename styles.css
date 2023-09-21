@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+  .moviePic {
+      height: 600px;
+      width: 400px;
+      opacity: 0.79;
+      position: relative;
+      top: 60px;
+      left: 36%;
+    }
+
+    .movieDetail:hover {
+      opacity: 1;
+    }
+    .moviePic:hover {
+      opacity: 1;
+    }
+
+    .movieDetail {
+      position: relative;
+      top: 50px;
+      left: 36%;
+      width: 400px;
+      font-size: 14px;
+      font-weight: bold;
+      text-align: center;
+      opacity: 0.79;
+    }
